@@ -1,0 +1,8 @@
+Subject: Você foi promovido neste grupo de usuários
+
+Parabéns {USERNAME},
+
+Você foi promovido no grupo "{GROUP_NAME}" em "{SITENAME}".
+Essa ação foi feita por um líder do grupo ou o administrador do site, entre em contato com eles para obter mais informações.
+
+{EMAIL_SIG}

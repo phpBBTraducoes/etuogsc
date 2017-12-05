@@ -1,0 +1,8 @@
+Subject: Você foi rebaixado neste grupo de usuários
+
+Olá {USERNAME},
+
+Você foi rebaixado no grupo "{GROUP_NAME}" em "{SITENAME}".
+Essa ação foi feita por um líder do grupo ou o administrador do site, entre em contato com eles para obter mais informações.
+
+{EMAIL_SIG}
